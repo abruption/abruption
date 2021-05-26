@@ -14,7 +14,7 @@
   <br />
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img alt="Apache" src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Apache" src="https://img.shields.io/badge/Apache Tomcat-%23D42029.svg?style=flat-square&logo=apache&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <br />

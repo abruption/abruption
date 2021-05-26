@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?text=abruption&type=Rounded&color=97dbae&fontColor=ffffff&section=header&animation=twinkling)
-
 <h3 align="center"> 👋 Hi there,</h3>
   <p align="center">
     I'm YeonGuk Lee, a Prospective developer. 🐥 <br>

@@ -6,7 +6,6 @@
   </p>
 <br>
 <h3 align='center'>🔨 Tech Stack 🔧</h3>
-<p align='center'>Techs that I've used at least once</p>
 <p align='center'>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;&nbsp;&nbsp;

@@ -49,13 +49,13 @@
 
 <h3 align="center">Links</h3>
 <p align="center">
-  <a href="https://abruption.top" target="_blank">
+  <a href="https://abruption.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-050507?style=flat-square&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://blog.abruption.top" target="_blank">
+  <a href="https://blog.abruption.dev" target="_blank">
     <img src="https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=jekyll&logoColor=white"/>
   </a>&nbsp;
-  <a href="mailto:contact@abruption.top" target="_blank">
+  <a href="mailto:contact@abruption.dev" target="_blank">
     <img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>

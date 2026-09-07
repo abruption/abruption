@@ -1,44 +1,86 @@
-<h3 align="center"> 👋 Hi there,</h3>
-  <p align="center">
-    I'm YeonGuk Lee, a Prospective developer. 🐥 <br>
-  </p>
-<br>
-<h3 align='center'>🔨 Tech Stack 🔧</h3>
-<p align='center'>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;&nbsp;&nbsp;
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <br />
-  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img alt="Apache" src="https://img.shields.io/badge/Apache Tomcat-%23D42029.svg?style=flat-square&logo=apache&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <br />
+<h3 align="center">YEONGUK LEE</h3>
+<p align="center">
+  Software Engineer building AI-powered tools and cloud infrastructure.<br/>
+  Focused on ontology engineering, multi-agent systems, and developer experience.
 </p>
-<br>
-<h3 align='center'>About Me</h3>
-<p align='center'>
-  <a href="https://www.abruption.ml" target="_blank">
-    <img src="http://img.shields.io/badge/Portfolio-655ced?style=t-square&logoColor=white" />&nbsp;&nbsp;
-  </a>
-  <a href="https://abruption.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Github Blog-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;&nbsp;
-  </a>
-  <a href="mailto:hashcode@kakao.com" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-005ff9?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;&nbsp;
-  </a>
-</p>
-<br>
 
-<!-- <p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abruption&layout=compact"/>
-  </a>
-</p> -->
+<br/>
 
-<p align='center'>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabruption&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+  <strong>Languages</strong><br/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+</p>
+<p align="center">
+  <strong>AI & Automation</strong><br/>
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-4B32C3?style=flat-square&logoColor=white"/>&nbsp;
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>&nbsp;
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white"/>
+</p>
+<p align="center">
+  <strong>Cloud & Infra</strong><br/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>&nbsp;
+  <img alt="Lambda" src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>&nbsp;
+  <img alt="Step Functions" src="https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat-square&logo=amazonwebservices&logoColor=white"/>&nbsp;
+  <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp;
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+</p>
+<p align="center">
+  <strong>Frontend & Desktop</strong><br/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>&nbsp;
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>&nbsp;
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>&nbsp;
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+<p align="center">
+  <strong>Backend & Data</strong><br/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>&nbsp;
+  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>&nbsp;
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>&nbsp;
+  <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white"/>&nbsp;
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+</p>
+
+<br/>
+
+<h3 align="center">Open Source</h3>
+<p align="center">
+  <a href="https://github.com/abruption/cc-peer" target="_blank">
+    <img alt="cc-peer" src="https://img.shields.io/badge/cc--peer-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/abruption/oci-cost-cli" target="_blank">
+    <img alt="oci-cost-cli" src="https://img.shields.io/badge/oci--cost--cli-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/abruption/agy-cli-usage" target="_blank">
+    <img alt="agy-cli-usage" src="https://img.shields.io/badge/agy--cli--usage-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/abruption/cc-usage-cli" target="_blank">
+    <img alt="cc-usage-cli" src="https://img.shields.io/badge/cc--usage--cli-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/abruption/orca" target="_blank">
+    <img alt="orca" src="https://img.shields.io/badge/orca-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<br/>
+
+<h3 align="center">Links</h3>
+<p align="center">
+  <a href="https://portfolio.abruption.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-050507?style=flat-square&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://blog.abruption.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=jekyll&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://abruption.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Home-4B5563?style=flat-square&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:contact@abruption.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+

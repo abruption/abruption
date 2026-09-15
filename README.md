@@ -18,7 +18,8 @@
   <strong>AI & Automation</strong><br/>
   <img alt="MCP" src="https://img.shields.io/badge/MCP-4B32C3?style=flat-square&logoColor=white"/>&nbsp;
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>&nbsp;
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white"/>
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white"/>&nbsp;
+  <img alt="Codex" src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 <p align="center">
   <strong>Cloud & Infra</strong><br/>
@@ -83,4 +84,3 @@
     <img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
-

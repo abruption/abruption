@@ -50,20 +50,17 @@
 
 <h3 align="center">Open Source</h3>
 <p align="center">
-  <a href="https://github.com/abruption/cc-peer" target="_blank">
-    <img alt="cc-peer" src="https://img.shields.io/badge/cc--peer-181717?style=flat-square&logo=github&logoColor=white"/>
+  <a href="https://github.com/abruption/session-peer" target="_blank">
+    <img alt="session-peer" src="https://img.shields.io/badge/session--peer-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>&nbsp;
   <a href="https://github.com/abruption/oci-cost-cli" target="_blank">
     <img alt="oci-cost-cli" src="https://img.shields.io/badge/oci--cost--cli-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://github.com/abruption/agy-cli-usage" target="_blank">
-    <img alt="agy-cli-usage" src="https://img.shields.io/badge/agy--cli--usage-181717?style=flat-square&logo=github&logoColor=white"/>
+  <a href="https://github.com/abruption/codex-unlock" target="_blank">
+    <img alt="codex-unlock" src="https://img.shields.io/badge/codex--unlock-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>&nbsp;
   <a href="https://github.com/abruption/cc-usage-cli" target="_blank">
     <img alt="cc-usage-cli" src="https://img.shields.io/badge/cc--usage--cli-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/abruption/orca" target="_blank">
-    <img alt="orca" src="https://img.shields.io/badge/orca-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 

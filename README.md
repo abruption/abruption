@@ -49,22 +49,48 @@
 <br/>
 
 <h3 align="center">Open Source</h3>
+<p align="center">Tools for AI-assisted development, cloud operations, and developer experience.</p>
+
+<h4 align="center">Active projects</h4>
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>What it does</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/abruption/session-peer"><strong>session-peer</strong></a><br/><small>formerly cc-peer</small></td>
+    <td>Find and message Claude Code and Codex sessions locally or over SSH.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/abruption/codex-unlock"><strong>codex-unlock</strong></a></td>
+    <td>Fail-closed diagnostics and safe recovery for Codex native thread writer locks.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/abruption/cc-usage-cli"><strong>cc-usage-cli</strong></a></td>
+    <td>Real-time Claude Code subscription rate-limit dashboard for 5-hour and 7-day utilization.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/abruption/oci-cost-cli"><strong>oci-cost-cli</strong></a></td>
+    <td>Readable OCI cost, usage, and outbound-traffic summaries across multiple tenancies.</td>
+  </tr>
+</table>
+
+<h4 align="center">Archived</h4>
 <p align="center">
-  <a href="https://github.com/abruption/cc-peer" target="_blank">
-    <img alt="cc-peer" src="https://img.shields.io/badge/cc--peer-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/abruption/oci-cost-cli" target="_blank">
-    <img alt="oci-cost-cli" src="https://img.shields.io/badge/oci--cost--cli-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/abruption/agy-cli-usage" target="_blank">
-    <img alt="agy-cli-usage" src="https://img.shields.io/badge/agy--cli--usage-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/abruption/cc-usage-cli" target="_blank">
-    <img alt="cc-usage-cli" src="https://img.shields.io/badge/cc--usage--cli-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/abruption/orca" target="_blank">
-    <img alt="orca" src="https://img.shields.io/badge/orca-181717?style=flat-square&logo=github&logoColor=white"/>
+  <a href="https://github.com/abruption/agy-cli-usage">
+    <img alt="agy-cli-usage — public archive" src="https://img.shields.io/badge/agy--cli--usage-public%20archive-lightgrey?style=flat-square&logo=github"/>
   </a>
+</p>
+<p align="center">
+  <a href="https://github.com/abruption/agy-cli-usage"><strong>agy-cli-usage</strong></a>
+  is a headless Antigravity CLI quota monitor. It is archived because Antigravity CLI 1.1.11+
+  provides native print-mode quota JSON; see the repository's migration notes for legacy integrations.
+</p>
+
+<h4 align="center">Forks &amp; upstream work</h4>
+<p align="center">
+  <a href="https://github.com/abruption/orca"><strong>orca</strong></a>
+  is a fork of <a href="https://github.com/stablyai/orca">stablyai/orca</a>.
 </p>
 
 <br/>

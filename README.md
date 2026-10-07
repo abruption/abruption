@@ -53,15 +53,15 @@
   <a href="https://github.com/abruption/session-peer" target="_blank">
     <img alt="session-peer" src="https://img.shields.io/badge/session--peer-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://github.com/abruption/oci-cost-cli" target="_blank">
-    <img alt="oci-cost-cli" src="https://img.shields.io/badge/oci--cost--cli-181717?style=flat-square&logo=github&logoColor=white"/>
+  <a href="https://github.com/abruption/session-peer-ts" target="_blank">
+    <img alt="session-peer-ts" src="https://img.shields.io/badge/session--peer--ts-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>&nbsp;
   <a href="https://github.com/abruption/codex-unlock" target="_blank">
     <img alt="codex-unlock" src="https://img.shields.io/badge/codex--unlock-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://github.com/abruption/cc-usage-cli" target="_blank">
-    <img alt="cc-usage-cli" src="https://img.shields.io/badge/cc--usage--cli-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://github.com/abruption/oci-cost-cli" target="_blank">
+    <img alt="oci-cost-cli" src="https://img.shields.io/badge/oci--cost--cli-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>&nbsp;
 </p>
 
 <br/>

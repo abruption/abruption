@@ -6,8 +6,9 @@
 <h3 align="center">Built</h3>
 <p align="center">
   <a href="https://github.com/abruption/dots-tailscale"><img alt="dots-tailscale" src="https://img.shields.io/badge/dots--tailscale-181717?style=flat-square&logo=github&logoColor=white"/></a><a href="https://github.com/abruption/dots-tailscale/stargazers"><img alt="★" src="https://img.shields.io/github/stars/abruption/dots-tailscale?style=flat-square&label=%E2%98%85&color=E3B341"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/abruption/NoAdKakaoMac"><img alt="NoAdKakaoMac" src="https://img.shields.io/badge/NoAdKakaoMac-181717?style=flat-square&logo=github&logoColor=white"/></a><a href="https://github.com/abruption/NoAdKakaoMac/stargazers"><img alt="★" src="https://img.shields.io/github/stars/abruption/NoAdKakaoMac?style=flat-square&label=%E2%98%85&color=E3B341"/></a>
+  <br/>
   <a href="https://github.com/abruption/session-peer"><img alt="session-peer" src="https://img.shields.io/badge/session--peer-181717?style=flat-square&logo=github&logoColor=white"/></a><a href="https://github.com/abruption/session-peer/stargazers"><img alt="★" src="https://img.shields.io/github/stars/abruption/session-peer?style=flat-square&label=%E2%98%85&color=E3B341"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/abruption/NoAdKakaoMac"><img alt="NoAdKakaoMac" src="https://img.shields.io/badge/NoAdKakaoMac-181717?style=flat-square&logo=github&logoColor=white"/></a><a href="https://github.com/abruption/NoAdKakaoMac/stargazers"><img alt="★" src="https://img.shields.io/github/stars/abruption/NoAdKakaoMac?style=flat-square&label=%E2%98%85&color=E3B341"/></a>&nbsp;&nbsp;
   <a href="https://github.com/abruption/codex-unlock"><img alt="codex-unlock" src="https://img.shields.io/badge/codex--unlock-181717?style=flat-square&logo=github&logoColor=white"/></a><a href="https://github.com/abruption/codex-unlock/stargazers"><img alt="★" src="https://img.shields.io/github/stars/abruption/codex-unlock?style=flat-square&label=%E2%98%85&color=E3B341"/></a>
 </p>
 

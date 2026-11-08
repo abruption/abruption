@@ -10,6 +10,8 @@
   <br/>
   <a href="https://github.com/abruption/session-peer"><img alt="session-peer" src="https://img.shields.io/badge/session--peer-181717?style=flat-square&logo=github&logoColor=white"/></a><a href="https://github.com/abruption/session-peer/stargazers"><img alt="★" src="https://img.shields.io/github/stars/abruption/session-peer?style=flat-square&label=%E2%98%85&color=E3B341"/></a>&nbsp;&nbsp;
   <a href="https://github.com/abruption/codex-unlock"><img alt="codex-unlock" src="https://img.shields.io/badge/codex--unlock-181717?style=flat-square&logo=github&logoColor=white"/></a><a href="https://github.com/abruption/codex-unlock/stargazers"><img alt="★" src="https://img.shields.io/github/stars/abruption/codex-unlock?style=flat-square&label=%E2%98%85&color=E3B341"/></a>
+  <br/>
+  <a href="https://github.com/abruption/aptly"><img alt="codex-unlock" src="https://img.shields.io/badge/aptly-181717?style=flat-square&logo=github&logoColor=white"/></a><a href="https://github.com/abruption/aptly/stargazers"><img alt="★" src="https://img.shields.io/github/stars/abruption/aptly?style=flat-square&label=%E2%98%85&color=E3B341"/></a>
 </p>
 
 <h3 align="center">Contributed to</h3>
